@@ -9,6 +9,7 @@ import SkillsComponent from './SkillsComponent';
 function App() {
   return (
     <div className="App" >
+      <br/>
       <Container style={{paddingLeft:0,paddingRight:0}}>
         <Row>
           <Col></Col>

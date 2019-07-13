@@ -1,6 +1,7 @@
 # Profile 
 A simple profile page with a unique style .Clean and minimalistic .
 
+![Alt text](../master/screencapture-fullpage.png "Home Page")
 
 ## Available Scripts
 
